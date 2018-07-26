@@ -1,0 +1,108 @@
+﻿Varış
+
+Geldikten ve odalara yerleşdikten sonra verilen özyeğin kıyafetlerini giyip sunum ve üniversite tanıtımı için diğer binaya geçtik
+Kampüs düşündüğüm gibi büyük ve bir çok imkan sağlıyor istediğin her şeyi bulabiliyorsun. Güzel bir sunum ve tanıtımdan sonra öğle yemeği
+yiyip odalara döndük. Odada düzen gibi şeylerle uğraşıırken saat 5.30 oldu ve akşam yemeği yedik. Akşam yemeği ve bazı insanların maç izlemesi
+sonrası akşam tanışma etkinliği yapıldı ve odalara dönüldü
+
+1.gün  
+Sabah alarmı yanlışlıkla 5.40 kurma sebebinden erken kalktıp biraz zaman geçirdikten sonra 8.20 gibi kahvaltıya gittik. Kahvaltı sonrası odaya dönüp
+çantayı aldıktan sonra 1 gün önce tur olmasına rağmen gitmemiz gereken yeri bulamadık. Arama için harcadığımız 5 dakikadan sonra bulmay başardık
+gitmem gereken yeri buldum ve ordan igilizce sınıfına gittik. İngilizce dersi eğlenceliydi ,bir kısa fillim izleyip bunun hakkında konuşuk. 
+İngilizceden sonra makerdan birkaç kişiyle sınıfımızı bulduk.Dersler eğlenceliydi html kodlaması ile basit yemek tarifi sitesi yapmak öğretildi bazen 
+çok hızlı ilerlesek ve kaçrıdığım yerler olsa da de yanımdakilerin de yardımıya güzel siteler yapmayı başardığımızı düşünüyorum. Öğle yemeği sonrası
+da html çalışmalarına devam ettik sonra odada kısa bir dinlenme sonrası akşam yemeği yiyip aktivitelere gittik. Human Bingo Oynadık eğlenceli ve 
+ilginç bir oyundu. Bitince Odalara gidip blog yattım
+
+2.gün
+Sabah 7de kalkıp kahvaltıya gittik kahvaltıdan da ingilizceye geçtik. İngilizcede bu sefer ders konusu diğer düşünce açılarıydı tekrar ilginç
+ve eğlenceli bir dersti ordan maker derslerine gittik ve bu sefer 3 boyutlu modelleme ve 3d Printer/Laser cutter gibi aletleri kullanma gibi
+konular üzerinde durduk kendi yüz tasarımımızı ve onu üzerine koyucağımız bir stand ve bir şapka modelledik Öğle yemepi sonrası son birkaç 
+düzenleme yapıp son detayları ekledik yarın ardunio kullanarak özellikler ekliyeceğiz ve herkesin yaptıklarının son durumunu görücez. Derslerden
+sonra odaya döndük ve sonra akşam yemeği yemeye gittik. Akşam yemeğinden sonra etkinlik olarak twister vardı bu sefer etkinliğe katılmadık 
+
+3.gün
+
+kalkıp kahvaltıya gittik kahvaltı bittikten sonra ingilizce dersini beklemek için diğer binaya geçtik. İnsanlar toplandıktan sonra ingilizce sınfına gittik ve bu sefer bir grup olarak bizden verilen 1 resimde gördüklerimizden bir hikaye yazmamız istendi. Grup kararıyla ordaki kuş hakkında bir hikaye yazdık. İngiizce bittiğinde maker dersleri için özü x binasına geçtik bu sefer konumuz ardunioydu. az da olsa bir bilgim olan bir konuydu ama ders sahesinde konuda daha bilgilendim. Ders süresinde led yakma buzzer dan ses çıkarma ses sensörü kullanma ve servo çalıştırma gibi konularda çalıştık. Öğle yemeğinden sonra da hepsini birleştirip ses sensörünün önünde bir şey olduğunda buzzerın ötmesini ledin yanmasını ve servonun çalışmasını sağlayacak bir devre yapdık. Maker dersleri bitince odaya döndük ve dinlenip blog sitem geliştirdikten sonra akşam yemeğine gittik yemekten sonra hava sebebiyle odaya dönünce etkinliğe gitmeyi unuttuk ve dinlendik. 
+
+4.gün
+
+uyanıp kahvaltıya gittikten sonra ingilizce dersini beklemek için tekrar diğer bindadaki lobiye gidi orda bekledikten sonra
+
+ingilizce sınıfına gittik. Bu sefer ingilizcede ----adlı bir yarışma türü bir oynadık. sırayla gruplar 4 konu başlığından birini seçip o konuda soruyu her grup çözmekteydi son soruya kadar önde olmamıza rağmen son soruda önümüze geçen diğer grup kazandı. Ders maker dersleri için bitince özü xe gittik ve dersimizin konusu elektronik prototipleme idi. Dersin başında kicad adlı programı kullanarak yapcağımız devrenin planını yaptık yemekten sonra da çıktı alınan devre modellerini bakır plakaya ütüleyip sonra aside atıp ____ dersin diğer yarısına geçtik. Dersin diğer yarısında da 3d modelleme dersinde modellediğimiz laser cutter dan çıkarılan yüz ve 3d yazıcıdan dan basılan  şapka bıyık burun gibi parçalarını zımparalayarak ve düzelterek birleştirdik Ardunio parçalarını ekleme dışında her şeyi bitirdik. Dersten sonra maker sınıfından birkaç kişiyle yurt içindeki ortak alanda oturup zaman geçirdik. Saat 6 gibi akşam yemeğine gittik. Yemekten sonra etkinlikte olunan takım çalışması üzerine olan yarışmaya katıldık. Etkinlik bitince odaya döndük ve biraz oturup yattık
+
+5.Gün
+Özyeğin üniversitesindeki İlk haftamızın son gününe her günki gibi heyecanlı bir şekilde uyandım ve kahvaltı sonrası ingilizce dersine gittik ingilizce dersinin konusu inavasyondu. Yeni bir ürün üretmemiz veya olan bir şeyi geliştirmemiz istendi. Grup olarak Akıllı seccade yapmaya karar verdik. Fikir alışverişi ile ürünün özelliklerini belirledikten sonra sunum aşaması başladı. Gruptan 2 kişi sunmak üzere sınıfın önüne geçti. Sunumlar bitince 1 oy almış olsak bile oy alan tek grup olarak birinci olduk. İngilizce dersinden maker için open fab sınıfına geçtik. Maker dersi başladı ve gruplara ayrıldık. Ilk grup diğer atolyeye geçip geçen ders yaptığımız bakır ___ ler üzerinde çalıştılar İlk grup da önceki ders zımparalayarak düzenlediğimiz kafaları birleştirdik. Arduino parçalarını test ettik diğer parçaları birleştirdik ve yapıştırdık en sonunda Tamamlandı. Diğer gruba çağırılana kadar sınıfa geri dönüp Blog konusunda kendi sitemde düzenlemeler yaptım ve diğer insanlara yardım ettim. Diğer gruptan 
+çağırıldığımda lehim yaptım. Maker dersi bittikten sonra odaya döndük. Akşam yemeği sonrası futboll turnuvasını izlemeye gittik. Turnuva bittikten sonra odaya döndük ve haftanın yorgunuğuyla uyuduk
+
+
+6. Gün
+ Sabah kalkıp hazırlanıp kahvaltıya gttikten sonra meraklı bir şekilde dil dersinin işleneceği sınıfa gittim. 2. haftadaki dil dersleri ilk hafta gibi ingilizce değildi ve her gün yeni bir dil olmak üzere değişmişti. Sınıfta uzun bir bekleme süresi sonrası öğretmenin gelmiyeceini öğrendik. Dil öğretmeni gelmeyince ben de openfab e erken gitmeye karar verdim. Open fab de ders başlayana kadarki boş zamanı bloguumu geliştirmek için kullandım. insanlar sınıfa gelmeye başladığında ve ders zamanı geldiğinde  ders başladı. Dersde Python yazılım dilini öğrendik. Döngüler ve internet sitesine bağlanıp open fab instagramını takip etme gibi değişk yollarla bu dili öğredik. Ders sonrası 3 arkadaşımla blogumzda son düzenlemeler yaptık. Odadya dönüp dinlenince akşam yemeğine gitme zamanı geldi ve akşam yemeği sonnrası etkinlik için öğrenci merkezinde bekledik. Bu günün etkinliği Treasure Hunt dı. Grup olarak bize verilen mektuplardaki soruları çözerek ve ipucuları kullanarak kampüs içindeki değişik bölgelere yönlendiridik ve eğlenceli bir yarışma gibi bir etkinlikti.Grup olarak 2. olduk ve etknliğin yorgunluğuyla odaya dönüp uyuduk. 
+
+
+Final projesi 1
+
+Final projesinin ilk günü gelmişti. projenin amacı youtube aracılığı ile canlı yayın yapacak bir cihaz üretmekti. Ben sunum grubuna yerleştirildim. Görevim instructables sitesinin kodlama ksımını düzenlemekti. İlk gün web sitesinin tasarımı logo tasarımı öğrencilerle röportaj gibi konularda grupça çalıştık. Grup olarak amacımız diğer grupların yaptıklarını sunuma hazırlamak olduğu için ve diğer gruplar ilk günden fazla ilerleme kaydetemediğinden bizim de işimiz çok yoktu oyüzden biraz boş g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
